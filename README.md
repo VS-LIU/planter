@@ -3,6 +3,11 @@
 ---
 
 ## Tech
+
+### Deploy
+- Docker/Kubernetes
+- 
+
 ### Frontend
 - React + NextJS
 - Tailwind CSS
@@ -17,3 +22,5 @@
 
 ### Database
 - Supabase + Prisma
+
+### Other
